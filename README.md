@@ -1,12 +1,20 @@
 # instagram_clone
-
-A new Flutter project.
-
+A completely Responsive Instagram App- Works on Android, iOS & Web!
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Features:
+Responsive Instagram UI
+Email & Password Authentication
+Share Posts with Caption
+Display Posts with Caption
+Like & Comment on Posts
+Search Users
+Follow Users
+Display User Posts, Followers & Following
+EVERYTHING REAL TIME
+Sign Out:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
